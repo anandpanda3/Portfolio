@@ -44,7 +44,7 @@ yarn dev
 
 5. Optimize for production
 
-```
+
 yarn build
 
 
