@@ -46,7 +46,7 @@ yarn dev
 
 ```
 yarn build
-```
+
 
 ## Technologies Used
 
