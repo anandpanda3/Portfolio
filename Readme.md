@@ -1,4 +1,4 @@
-# Cryptobase
+# Crypto
 
 ## Summary
 
